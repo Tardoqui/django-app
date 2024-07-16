@@ -20,3 +20,4 @@ class Command(BaseCommand):
                 time.sleep(1)
 
         self.stdout.write('Database available')
+        
